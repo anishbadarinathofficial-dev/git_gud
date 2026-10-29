@@ -1,5 +1,7 @@
 # The Code of Conduct
 
+anish was here
+
 Welcome to the **Git Gud Workshop**! 🚀
 
 We're keeping things casual, real, and fun. No corporate jargon, no stiff committee rules, no pretentiousness. Just people learning to code and getting comfortable with Git without anxiety.
